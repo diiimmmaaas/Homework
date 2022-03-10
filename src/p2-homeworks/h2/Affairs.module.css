@@ -1,0 +1,8 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 40px 80px 80px;
+}
+
+.filterButtons {
+    margin-top: 10px;
+}

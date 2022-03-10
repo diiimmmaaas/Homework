@@ -1,0 +1,22 @@
+.wrapper {
+    height: 70px;
+}
+
+.input {
+    margin: 10px;
+}
+
+.errorInput {
+    margin: 10px;
+    border: 2px solid red;
+}
+
+.errorValue {
+    margin: 10px;
+    color: red;
+}
+
+.totalUsers {
+    height: 30px;
+    margin-left: 20px;
+}
