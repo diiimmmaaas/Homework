@@ -1,24 +1,20 @@
 import React from 'react'
-import styles from './Pages.module.css'
 import HW1 from '../../h1/HW1'
 import HW2 from '../../h2/HW2'
 import HW3 from '../../h3/HW3'
 import HW4 from '../../h4/HW4'
+import styles from "./Pages.module.css";
 
-function PreJunior() {
+function JuniorPlus() {
     return (
         <div className={styles.pages}>
-            <HW1/>
-            <HW2/>
-            <HW3/>
-            <HW4/>
-            {/*<HW6/>*/}
+            Tut budut domashki HW11 i dalshe
 
         </div>
     )
 }
 
-export default PreJunior
+export default JuniorPlus
 
 // сделайте по аналогии пустые страницы джун и джун+
 // туда будут добавляться следующие дз
