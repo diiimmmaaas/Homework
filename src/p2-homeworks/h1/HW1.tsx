@@ -1,5 +1,6 @@
 import React from 'react'
 import Message from "./Message";
+import AlternativeMessage from "./AlternativeMessage";
 
 
 const messageData = {
@@ -26,7 +27,13 @@ function HW1() {
 
             <hr/>
             {/*для личного творчества, могу проверить*/}
-            {/*<AlternativeMessage/>*/}
+            AtlernativeMessage
+            <AlternativeMessage
+                avatar={messageData.avatar}
+                name={messageData.name}
+                message={messageData.message}
+                time={messageData.time}
+            />
             <hr/>
         </div>
     )

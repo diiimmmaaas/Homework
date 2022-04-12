@@ -4,9 +4,9 @@ import Affairs from './Affairs'
 // types
 export type AffairPriorityType = "high" | "middle" | "low" // need to fix any
 export type AffairType = {
-    _id:number
-    name:string
-    priority:AffairPriorityType
+    _id: number
+    name: string
+    priority: AffairPriorityType
 } // need to fix any
 export type FilterType = 'all' | AffairPriorityType
 
