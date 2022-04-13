@@ -11,10 +11,6 @@ function App() {
         <div className={s.App}>
             <div className={s.wrapper}>
                 <div className={s.title}>React homeworks:</div>
-                {/*<HW1/>*/}
-                {/*<HW2/>*/}
-                {/*<HW3/>*/}
-                {/*<HW4/>*/}
                 <HW5/>
             </div>
         </div>

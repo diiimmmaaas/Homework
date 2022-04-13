@@ -14,7 +14,7 @@ function HW1() {
     return (
         <div>
             <hr/>
-            homeworks 1
+            --homeworks 1--
 
             {/*should work (должно работать)*/}
 
@@ -27,7 +27,7 @@ function HW1() {
 
             <hr/>
             {/*для личного творчества, могу проверить*/}
-            AtlernativeMessage
+            --AtlernativeMessage--
             <AlternativeMessage
                 avatar={messageData.avatar}
                 name={messageData.name}
