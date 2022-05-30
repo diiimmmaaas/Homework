@@ -1,0 +1,19 @@
+.clockBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #000000;
+    background: #cbc6c6;
+}
+
+.buttonBlock {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
