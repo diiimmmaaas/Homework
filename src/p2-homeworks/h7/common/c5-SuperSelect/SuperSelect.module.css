@@ -1,0 +1,14 @@
+.select {
+    width: 120px;
+    padding: 5px;
+    margin: 5px;
+    background: #cbc6c6;
+}
+
+.option {
+    background: white;
+}
+
+.option:checked {
+    background: #cbc6c6;
+}
