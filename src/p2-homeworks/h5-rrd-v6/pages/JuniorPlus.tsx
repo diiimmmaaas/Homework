@@ -8,7 +8,7 @@ import styles from "./Pages.module.css";
 function JuniorPlus() {
     return (
         <div className={styles.pages}>
-            Tut budut domashki HW11 i dalshe
+            Tut budut domashki HW13 i dalshe
 
         </div>
     )
